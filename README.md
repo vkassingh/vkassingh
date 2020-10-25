@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Vikas Singh. I'm a writer by passion and a Designer by profession.👋
-To stay uptodate with my latest videos, make sure to subscribe my <a href= "https://www.youtube.com/channel/UC2UPlDOXeTpUYKtk2kP3WXA>YouTube Channel</a> .
+To stay uptodate with my latest videos, make sure to subscribe my <a href= "https://www.youtube.com/channel/UC2UPlDOXeTpUYKtk2kP3WXA">YouTube Channel</a> .
 
 A little more about me!
 
