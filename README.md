@@ -14,7 +14,7 @@ A little more about me!
 
 ## Find me around the web 🌎:
 
-- Twitter <a href="https://mobile.twitter.com/_SinghVikas">Twitter</a> 
+- Twitter <a href="https://mobile.twitter.com/_SinghVikas_">Twitter</a> 
 - Instagram <a href="https://instagram.com/uitrends0?igshid=1d0rzqb8a8obv">Instagram</a> 
 - Follow me on Youtube  <a href="https://www.youtube.com/channel/UC2UPlDOXeTpUYKtk2kP3WXA">Youtube</a> 
 
