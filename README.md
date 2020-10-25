@@ -9,10 +9,13 @@ A little more about me!
 - 📫 How to reach me: ... 44vikasrajput44@gmail.com
 
 
-<img src="https://giphy.com/gifs/community-together-diversity-LnQjpWaON8nhr21vNW" width="60"> <em<b> I love connecting with different people. :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people.  :)</em>
+<p><img src = "https://media.giphy.com/media/10LKovKon8DENq/giphy.gif"></p>
 
-<p><img src="https://i.gifer.com/YtP4.gif"></p>
+## Find me around the web 🌎:
 
-
+- Twitter <a href="https://mobile.twitter.com/_SinghVikas">Twitter</a> 
+- Instagram <a href="https://instagram.com/uitrends0?igshid=1d0rzqb8a8obv">Instagram</a> 
+- Follow me on Youtube  <a href="https://www.youtube.com/channel/UC2UPlDOXeTpUYKtk2kP3WXA">Youtube</a> 
 
 
