@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Vikas Singh and I'm a Passionate Frontent Web Developer.
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Vikas Singh and I'm a Passionate Frontend Web Developer.
 To stay uptodate with my latest videos, make sure to subscribe my <a href= "https://www.youtube.com/channel/UC2UPlDOXeTpUYKtk2kP3WXA">YouTube Channel</a> .
 
 A little more about me!
