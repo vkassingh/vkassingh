@@ -8,10 +8,9 @@ A little more about me!
 - 📫 How to reach me: ... 44vikasrajput44@gmail.com
 
 
-
 ## Find me around the web 🌎:
 
-- LinkedIn <a href="https://linkedin.com/in/vikas-singh101">LinkedIn</a> 
+- LinkedIn: [Vikas Singh on LinkedIn](https://linkedin.com/in/vikas-singh101)
 
 
 ![Vikas's github stats](https://github-readme-stats.vercel.app/api?username=vkassingh&show_icons=true&hide_border=true)
